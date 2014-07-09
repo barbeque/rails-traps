@@ -1,4 +1,0 @@
-- Set both sides of the relationship to nil when destroying a dependent object
-- Always specify column lengths and null:false for columns in DB
-- Always use protect_from_forgery where useful
-- Don't ever use model classes inside database migrations
